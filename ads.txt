@@ -1,0 +1,2 @@
+# Cuando Google apruebe tu cuenta, sustituye esta línea por la que te indique AdSense, por ejemplo:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

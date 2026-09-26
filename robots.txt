@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /buscar.html
+
+Sitemap: https://www.tudominio.es/sitemap.xml
